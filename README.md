@@ -1,15 +1,18 @@
+# Access and analyze Google Cloud BigQuery data from OCI Data Flow using Apache Spark
 
-# Introduction
+
+## Introduction
 ### Establish multicloud connectivity with OCI
 With the rapidly growing popularity of Oracle Cloud Infrastructure, many customers want to migrate to OCI or use OCI as their multicloud solution. Likewise, many customers want to access other Cloud Data platforms from OCI and use OCI for processing/computing when dealing with Big Data solutions.
 
-# Objective
+
+## Objective
 This tutorial will demonstrate how to connect Google Cloud BigQuery from OCI Data Flow Spark Notebook and perform some read operation on BigQuery table using Spark. We will also cover how to write down the resultant Spark dataframe to OCI Object Storage and Autonomous Data Warehouse.
 
 ![GCP_BigQuery_To_OC_ADW](https://github.com/Kuchan08/OCI-DataFlow-/assets/54794358/cdf37368-682b-4a49-abb7-8310e2b06de9)
 
 
-# Solution
+## Solution
 This solution will leverage Apache Spark capability like parallel processing and distributed in memory computation. OCI Data Flow application also can be scheduled/orchestrated through OCI Data Integration Service. In this approach, user can develop their Spark Script on OCI Data Flow and Interactive Notebook which itself leverages OCI Data Flow Spark cluster. The high level steps are:
 
   1. Connect with Google Cloud Platform: Google Cloud BigQuery using Apache Spark BigQuery Connector.
