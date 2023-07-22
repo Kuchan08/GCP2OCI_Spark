@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "core-invention-366213",
+  "private_key_id": "XXXX",
+  "private_key": "-----BEGIN PRIVATE KEY-----\XXXXX\XX+p8QEZC5VU/V9JXmreYg\naXJ81hyYRzlsgBD5exhbEhFb0C+QW1Gwxnk+2LaFmjQlSV10VOGDSD/QGX72ZiPf\nUMlcsf9Ku5HARFyRNdCyf/LTpup/MzCbweaYzdXGjXdOE7o2awwmJzT3uaCOJSRA\ndaurujLlwgHyEK0l4d9xCwNW2AdJ+KmEr53rEPB9HoS6LzeKoz/VI/UiSu8NRVyV\n+CMyoxeiVUgsZ3ZT0hc0f3a0Bsqi3ERvflh873MO+wTC/y/q2elCz29mqf1cooLJ\nlo7Vqf7JAgMBAAECggEAEa8R1KFVIsLZlhT4d4Z8RegsUodVL6Xz9JflvLOQApCd\nnkHsPLMOAvWR5QeAZtoGbIYB1FdKOIFR45E9wDtMWNETTXXCabbnHjsBb4rQul9B\nPXsS5MaJry6AAj6BITLnazYbCrGhi7tob/24gbBSsddjd5ukQJQyuPvN10MfeTKd\nUHoIq3vr9XqueLNffqVvCfOYhMr5vFcO3uJAr3Wnb2BySAxAUc47ItqSu92ifNjr\nmoMe3fRGxBtTxoTL1vgIOEBcnXWviiJIvjC38CqIoWO4nZzPBCVwjioxfS66jC9D\nFsgCmwZRgI4HWw41NSzaAaXRAjZ77OjSSc5LbJwwYQKBgQDJRyntV3yisfMwTaIt\nHZxl2p4IkG0wqOOwCfPYgqXQHmPkS3MaWdviD4GUtrWI07KnpWEYxbePsgi4g75Z\ns7yZ3tE+7BJh4SylCnJ7aqMSaXGLBZzuMbngW1YXvoXDTnlQp8PdGi0BZZzaw1PD\nZAuhcG+SVoxv29Aw8FV4gg2lWQKBgQC/F3viRa/E6NtcEkdYxrQo6qHXTmIdqb2i\ncezcScyt8opKmn4h90X4CPX16pZBvv+kpp+ThZrMx+3ipwstLpQJ0n6XDf74n2uu\ndfW1bNXBLH++qsWh4T9pCFiRFaONdbJNgmm/tZkZi3LCho7dm8le/rXlm5YLK9H5\nFaC51hNG8QKBgB4pkOnlS2MiIZxideQm5NIKodYMtqAtHvm5dBZE9c4rT7Ldb6FK\nR/4nbra3bprThplC2jsZHfnlpxLngzX0DlZMorS4McUDNmqBF0jRYSCYNpCrxamY\nQA+UAGHMhkUPVHS2v0455vanoIrT7JCCRI/rxnx6hc8ZdKhwy44khyD5AoGALGAU\nubf7GFwGzLvF67zBC5tpF+mw6TiIvBd+rK1Kpb5kFO0Ji3OzwOS70W63k+75yM+U\n0Ro+l316JZ8q/kQJxromAYgThMLoq6vi8k2i2eguhiV8HZqEMizo/FAtGeWSEWPO\nkOFn+0Gh1cCPnrDVs4Ss0vQthMyZRyGZoG4xLdECgYEAst6jm1ZnytP2VDk04PbW\nRCitK4LF96xSre+JRWie55BlhPjsVYFcMQpfEQuGq7bKOAg+Q0bGN49Eppk3o7to\ndEAP6heNsifQTrES+2IORoN4U2o+4+uSKVfYbntDB3FEzZn7QrCpcE5xqTYLdEyp\nFRNa4O0QSvDfU054EbJkZBE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocigcp-user@core-invention-366213.iam.gserviceaccount.com",
+  "client_id": "113151173482142409842",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocigcp-user%40core-invention-366213.iam.gserviceaccount.com"
+}
